@@ -3,10 +3,10 @@ __pycache__
 Cat/
 Dog/
 Data/
-Cat
-cat
-Dog
-dog
+Cat*
+cat*
+Dog*
+dog*
 kagglecatsanddogs_5340.zip
 x_train.npy
 y_train.npy
